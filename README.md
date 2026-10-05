@@ -11,6 +11,23 @@
 
 ---
 
+## 🚀 NEXOS v0.2.0 — FIRST DESKTOP RELEASE
+
+**NexOS Desktop v0.2.0 is live.** 🖥️🐧
+
+- **x86_64 / AMD64**
+- **Xfce Desktop**
+- **~2.54 GB Desktop ISO**
+- **Field test: ✅ Passed**
+- Debian-based Linux distribution
+
+[![Download NexOS](https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD-NexOS%20v0.2.0-06b6d4?style=for-the-badge)](https://github.com/hunterkritik-byte/NexOS/actions/runs/37272489178/artifacts/11328792769)
+
+**Sponsorship & collaboration:** hunterkritik@gmail.com
+
+[→ NexOS](https://github.com/hunterkritik-byte/NexOS) · [→ Documentation & releases](https://github.com/hunterkritik-byte/NexOS/releases)
+
+---
 ## `> whoami`
 
 ```text
